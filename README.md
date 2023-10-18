@@ -1,7 +1,7 @@
 # Sandwich
 "Sandwich" is a ".cpp file" that renames some variables with sandwich stuffing and toppings. 
 
-To showcase what it does, the screenshot below shows what it can do
+To showcase the syntax, check the syntax below.
 
 ![sandwich](https://github.com/LuckyRiceYT/Sandwich/assets/93751666/89bc989d-eb95-43e9-ae96-5acc258c612b)
 
