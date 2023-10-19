@@ -1,5 +1,5 @@
 <p align="center">
-<h3>Sandwich</h3>
+Sandwich
 </p>
 "Sandwich" is a ".cpp file" that renames some variables with sandwich stuffing and toppings. 
 
