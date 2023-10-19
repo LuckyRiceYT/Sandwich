@@ -1,4 +1,6 @@
+<p align="center">
 # Sandwich
+</p>
 "Sandwich" is a ".cpp file" that renames some variables with sandwich stuffing and toppings. 
 
 To showcase what it does, check the screenshot below.
